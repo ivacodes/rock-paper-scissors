@@ -6,12 +6,12 @@ A game built with React.
 
 ## To install
 
-```
+```cmd
 npm install
 ```
 
 ## To run in browser
 
-```
+```cmd
 npm start
 ```
